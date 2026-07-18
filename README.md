@@ -5,10 +5,10 @@
 
 ## 🌐 Web Development (estudando)
 
-HTML • CSS • JavaScript • Python
+HTML • CSS • JavaScript • 
 
 Próximos estudos:
-Bootstrap • Node.js • Express • React • Django • PostgreSQL
+Bootstrap • Node.js • Express • React  • PostgreSQL
 
 ## 🧠 Outros conhecimentos
 
