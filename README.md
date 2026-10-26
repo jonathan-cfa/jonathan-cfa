@@ -5,7 +5,7 @@
 
 ## 🌐 Web Development (estudando)
 
-HTML • CSS • JavaScript • 
+HTML • CSS • JavaScript •  TypeScript
 
 Próximos estudos:
 Bootstrap • Node.js • Express • React  • PostgreSQL
